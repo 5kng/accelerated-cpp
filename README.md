@@ -6,26 +6,25 @@ This repository contains my journey through **_Accelerated C++: Practical Progra
 
 ## 📂 Repository Structure
 
+```
 accelerated-cpp/
 ├── README.md
 ├── .gitignore
 ├── LICENSE
 ├── chapters/
-│ ├── chapter1/
-│ │ ├── examples/
-│ │ │ └── example1_1.cpp
-│ │ └── exercises/
-│ │ └── ex1_1.cpp
-│ ├── chapter2/
-│ └── …
+│   ├── chapter1/
+│   │   ├── examples/
+│   │   └── exercises/
+│   ├── chapter2/
+│   └── …
 ├── docs/
-│ ├── chapter1-summary.md
-│ └── diagrams/
+│   ├── chapter1-summary.md
+│   └── diagrams/
 ├── tests/
-│ └── chapter1_tests.cpp
+│   └── chapter1_tests.cpp
 └── scripts/
-└── build.sh
-
+    └── build.sh
+```
 
 - **`chapters/`**  
   - One folder per chapter.  
