@@ -4,6 +4,17 @@ This repository contains my journey through **_Accelerated C++: Practical Progra
 
 ---
 
+## 🚀 Getting Started
+
+To get started with this repository:
+
+1. Clone the repository: `git clone https://github.com/5kng/accelerated-cpp.git`
+2. Navigate to the project: `cd accelerated-cpp`
+3. Use the Makefile to build examples: `make`
+4. Explore the chapters directory for specific exercises and examples
+
+---
+
 ## 📂 Repository Structure
 
 ```
@@ -40,6 +51,6 @@ accelerated-cpp/
 
 - **`scripts/`**  
   - Helper scripts:  
-    - `build.sh` – compile all chapters’ code with one command.  
+    - `build.sh` – compile all chapters' code with one command.  
     - CI config (GitHub Actions workflows, if you want to auto–build on push).
 
