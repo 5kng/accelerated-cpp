@@ -40,6 +40,21 @@ accelerated-cpp/
 
 - **`scripts/`**  
   - Helper scripts:  
-    - `build.sh` – compile all chapters’ code with one command.  
+    - `build.sh` – compile all chapters' code with one command.  
     - CI config (GitHub Actions workflows, if you want to auto–build on push).
+
+---
+
+## 🤝 Contributing
+
+While this is primarily a personal learning repository, suggestions and improvements are welcome! Feel free to:
+- Report bugs or issues
+- Suggest improvements to the documentation
+- Share additional resources or examples
+
+---
+
+## 📝 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
