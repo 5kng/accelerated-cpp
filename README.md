@@ -13,7 +13,6 @@ accelerated-cpp/
 ├── LICENSE
 ├── chapters/
 │   ├── chapter1/
-│   │   ├── examples/
 │   │   └── exercises/
 │   ├── chapter2/
 │   └── …
@@ -28,7 +27,6 @@ accelerated-cpp/
 
 - **`chapters/`**  
   - One folder per chapter.  
-  - `examples/`: verbatim code snippets from the book (with attribution).  
   - `exercises/`: my own solutions, clearly named (e.g. `ex1_2.cpp`).
 
 - **`docs/`**  
